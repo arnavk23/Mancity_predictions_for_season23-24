@@ -1,0 +1,60 @@
+,Date,Competition,Venue,H/A,goals for(gf),goals against(ga),opponent(opp),poss,poss for opp,shots,shots at target,shots for opp,shots at target for opp,passes,passes for opp,pass acc ,pass acc for opp,fouls,fouls by opp,yellow,yellow for opp,red,red for opp,offsides,offsides for opp,corners,corners for opp,Result
+1,06-08-2023,FA Community Shield,Wembley Stadium,away,1,1,Arsenal,55,45,8,4,7,3,590,485,88,88,11,6,1,3,0,0,0,0,6,5,L
+2,12-08-2023,Premier League,Turf Moor,away,3,0,Burnley,66,34,17,8,6,1,706,365,89,79,8,11,0,0,0,1,1,0,5,6,W
+3,17-08-2023,UEFA Super Cup,Karaiskakis Stadium,away,1,1,Sevilla,74,26,23,7,8,4,665,233,89,76,5,14,0,3,0,0,0,3,8,0,W
+4,20-08-2023,Premier League,Etihad Stadium,home,1,0,Newcastle,59,41,14,4,7,1,684,477,89,86,13,11,1,5,0,0,1,4,3,0,W
+5,27-08-2023,Premier League,Bramall Lane,away,2,1,Sheffield United,80,20,30,9,6,2,742,194,92,68,2,11,0,4,0,0,2,1,12,1,W
+6,02-09-2023,Premier League,Etihad Stadium,home,5,1,Fulham,68,32,7,5,6,4,733,336,89,80,12,12,2,4,0,0,1,1,4,5,W
+7,16-09-2023,Premier League,London Stadium,away,3,1,West Ham,69,31,29,15,6,3,704,320,92,86,11,7,2,3,0,0,0,1,11,4,W
+8,20-09-2023,UEFA Champions League,Etihad Stadium,home,3,1,Crvena zvezda,76,24,37,16,3,2,733,234,92,76,5,9,2,2,0,0,1,1,12,0,W
+9,23-09-2023,Premier League,Etihad Stadium,home,2,0,Nottingham Forest,58,42,7,4,10,3,570,414,89,85,5,17,3,7,1,0,0,3,6,6,W
+10,28-09-2023,EFL Cup,St. James Park,away,0,1,Newcastle,68,32,10,2,7,4,709,339,89,82,10,12,2,2,0,0,0,0,7,4,L
+11,30-09-2023,Premier League,Molineux Stadium,away,1,2,Wolves,69,31,23,8,3,1,597,282,88,76,12,18,5,6,0,0,0,2,6,0,L
+12,05-10-2023,UEFA Champions League,Red Bull Arena Leipzig,away,3,1,RB Leipzig,69,31,18,5,3,1,767,351,92,85,6,12,1,2,0,0,1,3,3,2,W
+13,08-10-2023,Premier League,Emirates Stadium,away,0,1,Arsenal,51,49,4,1,12,2,521,500,86,86,7,8,3,2,0,0,0,2,4,5,L
+14,21-10-2023,Premier League,Etihad Stadium,home,2,1,Brighton,55,45,10,6,5,3,609,506,89,87,9,11,2,2,1,0,2,1,2,2,W
+15,26-10-2023,UEFA Champions League,Wankdorf Stadium,away,3,1,Young Boys,69,31,26,14,10,4,723,323,93,85,7,10,0,2,0,0,0,4,5,4,W
+16,29-10-2023,Premier League,Old Trafford,away,3,0,Manchester United,61,39,21,10,7,3,605,391,89,80,5,9,1,4,0,0,0,4,12,7,W
+17,04-11-2023,Premier League,Etihad Stadium,home,6,1,Bournemouth,65,35,21,8,5,1,731,395,93,85,8,9,0,1,0,0,0,2,12,1,W
+18,08-11-2023,UEFA Champions League,Etihad Stadium,home,3,0,Young Boys,72,28,27,10,0,0,719,282,92,80,5,21,0,2,0,1,1,0,6,0,W
+19,12-11-2023,Premier League,Stamford Bridge,away,4,4,Chelsea,55,45,15,10,17,9,531,444,89,84,15,13,3,5,0,0,0,1,3,3,D
+20,25-11-2023,Premier League,Etihad Stadium,home,1,1,Liverpool,60,40,16,5,8,3,614,414,91,81,9,11,1,3,0,0,3,4,9,6,D
+21,29-11-2023,UEFA Champions League,Etihad Stadium,home,3,2,RB Leipzig,71,29,14,6,5,3,796,327,93,85,10,11,1,0,0,0,1,4,6,7,W
+22,03-12-2023,Premier League,Etihad Stadium,home,3,3,Tottenham,55,45,17,4,8,4,572,472,87,85,14,14,4,4,0,0,2,2,10,8,D
+23,07-12-2023,Premier League,Villa Park ,away,0,1,Aston Villa,54,46,2,2,22,7,520,436,87,85,13,13,2,2,0,0,5,0,0,6,L
+24,10-12-2023,Premier League,Kenilworth Road,away,2,1,Luton Town,66,34,18,6,4,2,594,302,86,74,6,16,1,2,0,0,1,1,3,6,W
+25,13-12-2023,UEFA Champions League,Red Star Stadium,away,3,2,Crvena zvezda,70,30,10,3,11,6,670,296,91,79,9,21,1,3,0,0,3,3,2,2,W
+26,16-12-2023,Premier League,Etihad Stadium,home,2,2,Crystal Palace,75,25,19,9,5,2,818,285,91,75,12,9,1,1,0,0,2,1,6,1,D
+27,19-12-2023,FIFA Club World Cup,King Abdullah Sports City ,away,3,0,Urawa Reds,74,26,25,9,2,0,826,289,93,77,3,13,2,0,0,0,3,0,7,3,W
+28,22-12-2023,FIFA Club World Cup,King Abdullah Sports City ,away,4,0,Fluminense,55,45,15,8,5,2,530,444,90,89,11,13,0,3,0,0,3,3,4,2,W
+29,28-12-2023,Premier League,Goodison Park ,away,3,1,Everton,73,27,23,9,7,2,772,293,90,72,5,13,2,4,0,0,1,1,8,4,W
+30,30-12-2023,Premier League,Etihad Stadium,home,2,0,Sheffield United,81,19,18,4,4,2,1000,233,94,74,5,6,1,1,0,0,1,2,12,2,W
+31,07-01-2024,FA Cup,Etihad Stadium,home,5,0,Huddersfield United,84,16,18,7,2,2,964,179,94,67,6,7,0,2,0,0,0,4,11,0,W
+32,13-01-2024,Premier League,St. James Park,away,3,2,Newcastle,73,27,27,11,12,5,747,277,90,73,7,7,2,1,0,0,1,8,13,3,W
+33,27-01-2024,FA Cup,Tottenham Hotspur Stadium,away,1,0,Tottenham,57,43,18,5,1,1,602,466,87,82,19,9,4,3,0,0,3,3,14,2,W
+34,01-02-2024,Premier League,Etihad Stadium,home,3,1,Burnley,75,25,14,4,8,3,795,270,90,73,3,13,2,2,0,0,3,3,7,3,W
+35,06-02-2024,Premier League,Gtech Community Stadium,away,3,1,Brentford,72,28,25,15,9,3,750,279,90,72,4,2,0,1,0,0,0,2,13,8,W
+36,10-02-2024,Premier League,Etihad Stadium,home,2,0,Everton,73,27,19,3,5,1,772,294,91,75,6,11,0,2,0,0,1,2,9,0,W
+37,14-02-2024,UEFA Champions League,Parken,away,3,1,FC Copenhagen,79,21,27,13,4,1,830,209,92,68,3,13,0,2,0,0,1,0,6,2,W
+38,17-02-2024,Premier League,Etihad Stadium,home,1,1,Chelsea,71,29,31,5,9,6,711,307,90,81,7,12,1,3,0,0,0,5,12,1,D
+39,21-02-2024,Premier League,Etihad Stadium,home,1,0,Brentford,70,30,25,11,6,2,712,304,92,74,12,6,2,4,0,0,1,3,10,1,W
+40,24-02-2024,Premier League,Vitality Stadium,away,1,0,Bournemouth,63,37,15,6,13,4,582,351,84,77,6,14,2,2,0,0,0,3,8,3,W
+41,28-02-2024,FA Cup,Kenilworth Road,away,6,2,Luton Town,58,42,17,15,14,8,524,378,86,82,4,7,0,0,0,0,0,4,2,2,W
+42,03-03-2024,Premier League,Etihad Stadium,home,3,1,Manchester United,73,27,27,8,3,1,801,305,91,78,5,10,0,1,0,0,0,1,15,2,W
+43,07-03-2024,UEFA Champions League,Etihad Stadium,home,3,1,FC Copenhagen,69,31,12,3,11,2,819,363,92,87,5,9,0,2,0,0,1,4,4,4,W
+44,10-03-2024,Premier League,Anfield,away,1,1,Liverpool,47,53,10,6,19,6,530,584,82,83,10,6,3,0,0,0,1,6,4,7,D
+45,16-03-2024,FA Cup,Etihad Stadium,home,2,0,Newcastle,73,27,16,5,2,1,789,293,91,80,7,16,0,3,0,0,3,4,11,2,W
+46,31-03-2024,Premier League,Etihad Stadium,home,0,0,Arsenal,73,27,12,1,6,2,700,269,88,71,9,20,0,2,0,0,2,1,7,4,D
+47,04-04-2024,Premier League,Etihad Stadium,home,4,1,Aston Villa,67,33,25,11,8,3,701,337,92,86,6,13,1,2,0,0,1,1,2,3,W
+48,06-04-2024,Premier League,Selhurst Park,away,4,2,Crystal Palace,76,24,18,8,7,4,845,274,91,78,3,13,1,1,0,0,1,2,9,2,W
+49,10-04-2024,UEFA Champions League,Santiago Bernabeu,away,3,3,Real Madrid,62,28,12,6,14,5,689,423,91,86,9,11,2,2,0,0,0,0,2,4,D
+50,13-04-2024,Premier League,Etihad Stadium,home,5,1,Luton Town,74,26,37,13,4,2,763,276,92,77,7,6,1,0,0,0,0,1,12,1,W
+51,18-04-2024,UEFA Champions League,Etihad Stadium,home,1,1,Real Madrid,68,32,33,9,8,3,920,457,91,81,15,11,3,2,0,0,1,1,18,1,L
+52,20-04-2024,Premier League,Wembley Stadium,away,1,0,Chelsea,63,37,14,3,10,5,587,358,89,80,9,11,2,3,0,0,3,2,8,4,W
+53,26-04-2024,Premier League,Falmer Stadium,away,4,0,Brighton,65,35,14,6,7,3,786,421,93,89,3,10,0,2,0,0,1,5,4,4,W
+54,28-04-2024,Premier League,City Stadium,away,2,0,Nottingham Forest,67,33,11,5,14,2,733,350,90,81,6,8,0,0,0,0,1,2,5,4,W
+55,04-05-2024,Premier League,Etihad Stadium,home,5,1,Wolves,58,42,20,12,2,1,616,454,90,84,4,17,0,4,0,0,2,2,6,0,W
+56,11-05-2024,Premier League,Craven Cottage,away,4,0,Fulham,65,35,16,9,1,1,769,420,91,83,6,9,0,1,0,1,0,0,7,1,W
+57,15-05-2024,Premier League,Tottenham Hotspur Stadium,away,2,0,Tottenham,46,54,8,5,10,5,533,611,89,88,11,14,3,3,0,0,2,2,4,7,W
+58,19-05-2024,Premier League,Etihad Stadium,home,3,1,West Ham,72,28,28,13,3,2,782,307,93,80,3,12,0,1,0,0,3,0,11,2,W
+59,25-05-2024,FA Cup,Wembley Stadium,away,1,2,Manchester United,74,26,19,4,11,5,667,248,90,76,7,11,1,2,0,0,1,3,7,1,L
